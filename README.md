@@ -60,11 +60,11 @@ https://github.com/MadihaLodhi/Fruad-Detection-Dashboard/blob/main/snapshot%20of
 ✅ Export Fraud Alerts Reports
 
 📎 Connect With Me
-www.linkedin.com/in/madiha-lodhi-analyst
+madihalodhi1717@gmail.com
 
-madihalodhi.com
+
 If you liked this project or want to collaborate on similar dashboards:
 
 LinkedIn: www.linkedin.com/in/madiha-data-analyst
 
-Portfolio: your website if any
+Portfolio: madihalodhi.coom
