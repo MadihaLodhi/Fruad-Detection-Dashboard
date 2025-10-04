@@ -50,6 +50,7 @@ Locations (London, New York, Tokyo, etc.)
 Fraud Detection Dashboard Screenshot
 Insert Image Here → (dashboard screenshot)
 https://github.com/MadihaLodhi/Fruad-Detection-Dashboard/blob/main/snapshot%20of%20Dashboard.png
+
 🚀 Future Enhancements
 
 ✅ Add AI-driven anomaly detection
